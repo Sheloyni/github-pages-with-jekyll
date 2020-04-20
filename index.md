@@ -1,3 +1,3 @@
-# Welcome to my blog
+## It's time to get started
 
-I'm glad you are here. I plan to talk about all kinds of things
+Thanks for look in here. I plan to talk about all kinds of things
